@@ -1,0 +1,10 @@
+import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
+import 'package:sneaker_app/providers/provider.dart';
+import 'package:sneaker_app/themes.dart';
+import 'package:sneaker_app/widgets/widget.dart';
+part 'chat_page.dart';
+part 'home_page.dart';
+part 'main_page.dart';
+part 'profile_page.dart';
+part 'wishlist_page.dart';
